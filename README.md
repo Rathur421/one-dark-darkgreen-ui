@@ -1,18 +1,10 @@
-## One Dark UI theme [![Build Status](https://travis-ci.org/atom/one-dark-ui.svg?branch=master)](https://travis-ci.org/atom/one-dark-ui)
-
-### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/one-dark-ui), please direct all issues and pull requests there in the future!
+## One Dark Darkgrenn UI theme
+forked from the beautiful [One-dark UI](https://github.com/atom/one-dark-ui) theme wich replace the blue accent by a darkgreen one
 
 A dark UI theme that adapts to most syntax themes.
 
-![One dark UI](https://cloud.githubusercontent.com/assets/378023/26246818/08255b76-3cd6-11e7-9f6d-6ae3e16a89a9.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
-
-
-### Install
-
-This theme comes bundled with Atom and can be activated by going to the __Settings > Themes__ section and selecting "One Dark" from the __UI Themes__ drop-down menu.
-
 
 ### Settings
 

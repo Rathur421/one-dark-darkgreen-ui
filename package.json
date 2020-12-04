@@ -1,15 +1,16 @@
 {
   "name": "one-dark-darkgreen-ui",
   "theme": "ui",
-  "version": "1.12.5",
-  "description": "Atom One dark UI theme",
+  "version": "0.0.0",
+  "description": "Atom One dark UI theme with darkgreen accent color",
   "keywords": [
     "dark",
     "adaptive",
-    "ui"
+    "ui",
+    "green"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/Rathur421/one-dark-darkgreen-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
