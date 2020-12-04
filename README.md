@@ -1,4 +1,4 @@
-## One Dark Darkgrenn UI theme
+## One Dark Darkgreen UI theme
 forked from the beautiful [One-dark UI](https://github.com/atom/one-dark-ui) theme wich replace the blue accent by a darkgreen one
 
 A dark UI theme that adapts to most syntax themes.
