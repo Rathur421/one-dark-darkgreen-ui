@@ -1,10 +1,8 @@
 ## One Dark Darkgreen UI theme
 forked from the beautiful [One-dark UI](https://github.com/atom/one-dark-ui) theme wich replace the blue accent by a darkgreen one
 
-A dark UI theme that adapts to most syntax themes.
+There is a darkgreen syntax [here](https://github.com/Rathur421/one-dark-darkgreen-syntax) for it
 
-
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
 ### Settings
 
@@ -33,4 +31,4 @@ It's also possible to resize only certain areas by adding the following to your 
 ### FAQ
 
 __Why do the colors change when I switch Syntax themes?__
-This UI theme uses the same background color as the chosen syntax theme. If that syntax theme has a light background color, it only uses its hue, but otherwise stays dark. This lets you use dark-light combos.
+This UI theme uses the same background color and cursor color as the chosen syntax theme. If that syntax theme has a light background color, it only uses its hue, but otherwise stays dark. This lets you use dark-light combos.
